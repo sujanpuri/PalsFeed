@@ -6,10 +6,10 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-    apiKey: "",
-    appId: "",
-    messagingSenderId: "",
-    projectId: "",
+    apiKey: "AIzaSyA7GcSUeiQ_o0aBoVQ_JrO8cjTQNZDIBhM",
+    appId: "palsfeed",
+    messagingSenderId: "833026027425",
+    projectId: "palsfeed",
   ));
   runApp(PalsFeed());
 }
