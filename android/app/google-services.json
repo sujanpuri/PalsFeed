@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833026027425",
+    "project_id": "palsfeed",
+    "storage_bucket": "palsfeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833026027425:android:f7c54caa81fd0bda4525e0",
+        "android_client_info": {
+          "package_name": "com.example.palsfeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GcSUeiQ_o0aBoVQ_JrO8cjTQNZDIBhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
