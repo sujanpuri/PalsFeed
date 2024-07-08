@@ -153,7 +153,8 @@ class _PostCardState extends State<PostCard> {
   }
 
   void addComment(String comment) {
-    FirebaseFirestore.instance.collection('posts').doc(widget.postId).update({
+    if(comment != '' )
+      FirebaseFirestore.instance.collection('posts').doc(widget.postId).update({
       'comments': FieldValue.arrayUnion([comment]),
     });
     _commentController.clear();
