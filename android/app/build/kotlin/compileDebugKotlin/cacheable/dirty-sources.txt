@@ -1,0 +1,1 @@
+C:\Coding\Flutter\Projects\palsfeed\android\app\src\main\kotlin\com\example\palsfeed\MainActivity.kt
