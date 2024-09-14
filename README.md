@@ -1,7 +1,7 @@
 # PalsFeed (Mobile App)
 
 <p>A new Flutter project.</p>
-<p>Download APP: ![PalsFeed Link](https://drive.google.com/file/d/1UdzgQRLy_UTHsFicQ0_-8Riwma_CNkfg/view)</p>>
+<p>Download APP: https://drive.google.com/file/d/1UdzgQRLy_UTHsFicQ0_-8Riwma_CNkfg/view</p>>
 
 ## Functionalities
 
