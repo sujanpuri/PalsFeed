@@ -9,6 +9,7 @@
 2. Real-Time Database system.
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="https://github.com/sujanpuri/PalsFeed/blob/master/PalsFeed%20Page.png" alt="Main Page" width="300" style="margin-right: 20px;">
-  <img src="https://github.com/sujanpuri/PalsFeed/blob/master/PalsFeed%20SignUp.png" alt="SignUP Page" width="300">
+  <img src="https://github.com/sujanpuri/PalsFeed/blob/master/PalsFeed%20Page.png" alt="Main Page" width="400" style="margin-right: 20px;">
+  <img src="https://github.com/sujanpuri/PalsFeed/blob/master/PalsFeed%20SignUp.png" alt="SignUP Page" width="400">
 </div>
+<p>You can Add the STATUS once LOGGED IN.</p>
